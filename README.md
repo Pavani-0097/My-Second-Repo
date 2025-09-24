@@ -1,2 +1,6 @@
 # My-Second-Repo
 Student Portal Demo
+Basic Student Portfolio 
+Attendence Tracking
+Semester Results
+Event Information
